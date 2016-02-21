@@ -1,0 +1,26 @@
+// Room: /d/fuzhou/wuyishan5.c
+// Date: May 12, 98  Java
+
+inherit ROOM;
+
+void create()
+{
+	set("short", "¾ÅÇúÏª");
+	set("long", @LONG
+Ó¯Ó¯Ò»Ë®£¬ÕÛÎª¾ÅÇú¡£Á½°¶Ê÷ÂÌÖñ´ä£¬Ææ·åÍ»Ø££¬ÕæÊÇ¡°Ïª
+Á÷¾ÅÇúÐºÔÆÒº£¬É½¹âµ¹½þÇåÁ°äô¡±¡£
+LONG );
+	set("exits", ([
+		"east"      : __DIR__"wuyishan2",
+		"northup"   : __DIR__"wuyishan3",
+		"northwest" : __DIR__"wuyishan4",
+	]));
+	set("resource/water", 1);
+	set("outdoors", "fuzhou");
+	set("coor/x", 50);
+	set("coor/y", -70);
+	set("coor/z", 0);
+	setup();
+	replace_program(ROOM);
+}
+

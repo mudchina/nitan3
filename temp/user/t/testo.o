@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+ghost 1
+dbase (["max_jing":100,"env":(["wimpy":60,"show_reply":"all","roomlist":1,]),"con":20,"weiwang":0,"can_speak":1,"character":"ÒõÏÕ¼éÕ©","eff_jing":1,"max_neili":0,"purename":"¾Å","shen_type":0,"score":0,"on_birthday":1,"jing":1,"max_jingli":0,"on_time":18,"max_qi":100,"mud_age":18,"surname":"²âÊÔ","last_save":1243385886,"water":238,"eff_qi":1,"born_family":"Ã»ÓĞ","jingli":0,"shen":0,"str":20,"food":238,"race":"ÈËÀà","combat":(["dieexp":"1","last_die":"±»ÀèÖµ¿³ËÀÁË","dietimes":1,]),"registered":1,"potential":"50","qi":1,"last_read_news":1243385886,"kar":27,"monfee":1252025886,"attitude":"peaceful","born":"ÑïÖİÈËÊÏ","per":24,"combat_exp":"101","int":20,"sec_id":"eaam`lcm!bkgknhkilgakdnnkbkecanomehhoeknf","birthday":1243385886,"chann":(["chat":1,"sing":1,"bill":1,]),"startroom":"/d/city/kedian","email":"koksaver@gmail.com","title":"ÆÕÍ¨°ÙĞÕ","newbie":1,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Á½Àß","×óÁ³","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","ÓÒÁ³","×ó½Å","ÓÒ½Å","×ó¶ú","ÓÒ¶ú",}),"unit":"Î»","channels":({"chat","rumor","party","bill","sos","family","nt","rultra",}),"name":"²âÊÔ¾Å","age":14,"special_skill":(["hatred":1,]),"gender":"ÄĞĞÔ","id":"testo","dex":20,])
+skills (["dodge":0,])
+learned (["dodge":0,])
+autoload ({})
+all ({})
+at_time 1243385928
+ban_say_msg ""

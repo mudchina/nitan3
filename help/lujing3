@@ -1,0 +1,53 @@
+                  [1;31mÄàÌ¶Â·¾¶ Ö® ÄàÍ¾ìşìı(Èı)[2;37;0m
+                       [1;31mBy tonly[2;37;0m
+[1;32m____________________________________________________________[2;37;0m
+
+[1;32mÒÔÏÂÂ·¾¶´ÓÑïÖİ³ÇÖĞĞÄ¹ã³¡¿ªÊ¼£º[2;37;0m
+
+[1;33mÉÙÁÖÅÉ£º[2;37;0m[1;37mn;e;e;goto nanyang;w;w;n;n;w;w;nu;nu;wu;nu;[2;37;0m
+        [1;37mnu;nu;e;eu;nu;nu;nu;n[2;37;0m
+
+[1;33máÔÉ½ÅÉ£º[2;37;0m[1;37mn;e;e;goto nanyang;w;w;n;n;w;n;n;n[2;37;0m
+
+[1;33mÉÌ¼Ò±¤£º[2;37;0m[1;37mn;e;e;goto nanyang;w;w;n;n;e;e;e;n[2;37;0m
+
+[1;33måĞÒ£ÁÖ£º[2;37;0m[1;37m#7 s;#2 e;s;w [2;37;0m
+
+[1;33mÎäµ±É½£º[2;37;0m[1;37m#7 s;w;nw;w;sw;w;se;s;#2 w;#2 wu;w;#4 su;sd;[2;37;0m
+        [1;37msu;sd;#4 su;s[2;37;0m
+[1;33m¶ëÃ¼É½£º[2;37;0m[1;37mn;#2 e;goto xiangyang;goto chengdu;goto emei[2;37;0m
+        [1;37m;#2 e;su;#2s;w;#7 wu;#2;w;nu;wu;sw;wu;sw;wu[2;37;0m
+
+[1;33mÁéğÕŒm£º[2;37;0m[1;37mn;#2 e;goto changan;goto yili;s;se;wu;n;nu;[2;37;0m
+        [1;37m#2 wu;nu;zou tiesuo;eu;#2 n[2;37;0m
+
+[1;33mĞÇËŞº££º[2;37;0m[1;37mn;#2 e;goto changan;goto yili;s;se;wu;n;nd[2;37;0m
+
+[1;33mÈ«Õæ½Ì£º[2;37;0m[1;37mn;#2 e;goto changan;goto wugong;#2 s;#3 w;ne;[2;37;0m
+        [1;37meu;se;eu;n;#3 nu;#2 wu;#2 nu;n;w;nw;n;#5 nu;se;eu;su[2;37;0m
+
+[1;33m¹ÅÄ¹ÅÉ£º[2;37;0m[1;37mn;e;e;goto changan;goto wugong;s;s;w;w;w;ne;eu;se;eu[2;37;0m
+        [1;37m;n;#3 nu;#2 wu;#2 nu;n;#wa 2000;w;nw;n;#3 nu;#2 wu;[2;37;0m
+        [1;37mnu;#2 wu;su;eu;#2 sd;#2 s;su;#2 sw;s;e;se;wield jian;[2;37;0m
+[1;37mqian tan;ci brick;zhan brick;d;n;s;tang coffin;niu lock;e;s;s;[2;37;0m
+
+[1;33mÌÒ»¨µº£º[2;37;0m[1;37mn;e;e;goto hangzhou;goto jiaxing;ne;n;e;e;[2;37;0m
+       [1;37mask chuanfu about ³öº£;give 1 gold  to chuanfu[2;37;0m
+
+[1;33mÀ¥ÂØÉ½£º[2;37;0m[1;37mn;#2 e;goto changan;goto yili;s;#2 se;e;se;#3 w;[2;37;0m
+        [1;37mµ½¸ê±ÚÌ²,(½ø¸ê±ÚÌ²µÄ×ß·¨ ;{#2 w;#2 n}[2;37;0m
+        [1;37m·´¸´×ß,³ö¸ê±ÚÌ²µÄ×ß·¨{#2 e;#2 s}·´¸´×ß) [2;37;0m
+
+[1;33mÑªµ¶ÃÅ£º[2;37;0m[1;37mn;#2 e;goto xiangyang;goto chengdu;w;nw;w;#3 s;w[2;37;0m
+        [1;37m;w;wu;wu;su;s;su;su;ed[2;37;0m
+
+[1;33mÑ©É½ËÂ£º[2;37;0m[1;37mn;#2 e;goto changan;goto yili;s;#2 se;sw;#2 w;#2 nµ½Â}ºş,[2;37;0m
+        [1;37m(ßMÂ}ºş×ß·¨:Ò» ;Ö±e,³öÂ}ºş×ß·¨:Ò»Ö±s)[2;37;0m
+        [1;37m#2 e;n;n;wu;s;s;s;w;w;s;wu[2;37;0m
+
+[1;33mÃ·×¯£º[2;37;0m[1;37mn;e;e;goto hangzhou;w;w;n;n;n;n;sw;s;sw;nw;sw;wu;n;n;[2;37;0m
+      [1;37mknock 4;knock 2;knock 5;knock 3;n[2;37;0m
+
+[1;33mØ¤°ï£º[2;37;0m[1;37menter dong;say ÌìÌÃÓĞÂ·Äã²»×ßÑ½;d[2;37;0m
+
+
